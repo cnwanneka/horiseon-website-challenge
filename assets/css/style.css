@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* I added semantic element nav to the file*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -68,13 +68,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* I changed the div class element to semantic element main*/
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* I changed the div tag to the semantic element aside*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -187,7 +187,7 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* I changed the div tag to the semantic element footer */
 footer {
     padding: 30px;
     clear: both;
