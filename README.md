@@ -4,7 +4,7 @@ Description:
 
 The objective of this project was to refactor the Horiseon website and make it more accessible.
 
-It's great practice to leave a project in a better state than it was met.
+It's always great coding practice to leave a project in a better state than it was met.
 
 The problem that my project solves is that my web pages are more informative and that search engines find it easy to navigate through my website.
 
